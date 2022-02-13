@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Parsec93"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpeg"
   bio    : "Beginner web developer."
   links:
     - label: "Website"
